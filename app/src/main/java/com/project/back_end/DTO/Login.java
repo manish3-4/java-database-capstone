@@ -1,4 +1,5 @@
-package com.project.back_end.DTO
+package com.project.back_end.DTO ;
+
 public class Login {
 
     private String identifier;
